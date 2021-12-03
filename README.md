@@ -6,4 +6,4 @@ Chemical profiles were compared using unsupervised machine learning approaches a
 and compound production rates. 
 Invasive/Non-Native profiles were also correlated according to environmental and ecological factors.
 
-See RDS and Excel files for data used.
+See Excel files for data used.
