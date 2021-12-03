@@ -1,4 +1,4 @@
-# Quantifying-the-Invasive-Metabolome
+# Quantifying-the-Invasive-Secondary-Metabolome
 Repository of Code used to generate results seen in Quantifying the Invasive Metabolome on BioRXIV.
 
 The aim of this project was to collect the chemical profiles of invasive/non-native and non-invasive/native populations of plants that are known invasive species. 
